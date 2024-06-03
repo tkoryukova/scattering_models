@@ -9,7 +9,7 @@ Implementation of the Extream Scattering Event (ESE) models in `julia` and `Pyth
 ### Installation:
 
 ```bash
-$ git clone https://github.com/tattianium/scattering_models.git
+$ git clone https://github.com/tkoryukova/scattering_models.git
 $ cd scattering_models
 ```
 
